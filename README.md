@@ -7,6 +7,9 @@ npm install
 npm start
 ```
 
+## todo:
+ - [ ] actually turn this into a color picking tool?
+
 Using several of the palettes from [this wonderful article](http://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/) by [Joshua Stevens](https://twitter.com/jscarto).
 
 ![bivariate-choropleth-palettes](/img/1.png?raw=true "bivariate-choropleth-palettes")
